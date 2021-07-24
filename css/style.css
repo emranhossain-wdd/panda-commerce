@@ -1,0 +1,26 @@
+.bg-lightpink{
+    background-color: #fceae8;
+}
+.btn-gra-pink{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);;
+}
+.bg-orange{
+    background-color: orange;
+}
+.bg-orchid{
+    background-color: orchid;
+}
+.bg-blue{
+    background-color: blue;
+}
+.catagories img{
+    width: 100px;
+}
+.card-footer{
+    padding: 0;
+    background-color: white;
+    border: 0;
+}
+#subscribe{
+    height: 300px;
+}
